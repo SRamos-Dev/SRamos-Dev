@@ -65,6 +65,8 @@ Me apasiona la tecnología y la resolución de problemas a través del código. 
 </div>
 
 <div align="center">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=SRamos-Dev&theme=radical" alt="GitHub Activity Graph" />
+    ```markdown
+        <img src="https://github-readme-activity-graph.cyclic.app/graph?username=SRamos-Dev&theme=radical" alt="GitHub Activity Graph" />
+    ```
 </div>
 
