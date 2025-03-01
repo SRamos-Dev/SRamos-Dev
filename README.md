@@ -64,10 +64,6 @@ Me apasiona la tecnología y la resolución de problemas a través del código. 
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=SRamos-Dev&theme=radical" alt="GitHub Streak Stats" />
 </div>
 
-<div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=SRamos-Dev&theme=radical" alt="GitHub Activity Graph" />
-</div>
-
 ---
 
 <div align="center">
