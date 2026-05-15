@@ -52,7 +52,7 @@ With a strong foundation in both frontend and backend development, I enjoy tackl
 
 ### 🚀 Featured Work
 
-**[Inventory & Sales Hub](https://github.com/yourusername/inventory-sales-hub)** *A comprehensive monorepo platform designed for enterprise inventory, sales, and point-of-sale (POS) management.*
+**[Inventory & Sales Hub](https://github.com/Avilsan04/Inventory-Sales-Hub)** *A comprehensive monorepo platform designed for enterprise inventory, sales, and point-of-sale (POS) management.*
 - Engineered a robust backend service using **Java 17** and **Spring Boot 3**, secured with JWT and Spring Security.
 - Developed a dynamic web client using **React 18** and **TypeScript**, with rigorous E2E testing via Playwright.
 - Implemented a native mobile application using **React Native** for on-the-go management.
