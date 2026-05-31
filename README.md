@@ -1,94 +1,77 @@
 <div align="center">
-  <h1>Hi, I'm Sergio Ramos 👋</h1>
-  <p><strong>Frontend Engineer specialized in modern SaaS applications</strong></p>
 
-  <a href="https://www.linkedin.com/in/sramos-dev/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:virtualsoft.adm@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
+# Sergio Ramos
+
+Frontend Developer specialized in scalable SaaS applications
+
+[LinkedIn](https://www.linkedin.com/in/sramos-dev/) ·
+[Email](mailto:virtualsoft.adm@gmail.com)
 
 <br />
 
-## 👨‍💻 About Me
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Query-FF4154?style=flat&logo=reactquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab_CI/CD-FC6D26?style=flat&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Odoo_ERP-714B67?style=flat" />
+</p>
 
-Frontend Engineer with experience building and maintaining scalable SaaS platforms using modern technologies such as Next.js, React, and TypeScript.
-
-I have worked as the main Frontend developer on multiple products for the gastronomic sector, developing responsive interfaces, integrating APIs and ERP services, implementing scalable architectures, and working with CI/CD pipelines, Docker, and cloud-based infrastructure.
-
-My background in customer support and operational environments has also helped me develop strong problem-solving, adaptability, and communication skills, allowing me to combine technical development with real user-focused solutions.
+</div>
 
 ---
 
-## 🚀 Main Stack
+## About
+
+Frontend Developer with experience building and maintaining scalable SaaS platforms using technologies such as Next.js, React, and TypeScript.
+
+I have worked as the main Frontend developer on multiple products for the gastronomic sector, developing responsive and scalable interfaces, integrating APIs and ERP services, and working with clean architectures, CI/CD pipelines, Docker, and cloud-based infrastructure.
+
+Currently focused on frontend architecture, performance optimization, scalable systems, and maintainable codebases for real-world applications.
+
+My background in operational support and customer-facing environments has also helped me develop strong problem-solving, adaptability, and communication skills.
+
+---
+
+## Technologies & Tools
 
 ### Frontend
 
-<p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sass-C76494?style=for-the-badge&logo=sass&logoColor=white" />
-</p>
+Next.js · React · TypeScript · Tailwind CSS · Sass · Material UI · Ant Design
 
 ### State Management & Architecture
 
-<p>
-  <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Clean_Architecture-222222?style=for-the-badge" />
-</p>
+React Query · Redux Toolkit · Context API · React Hook Form · Zod · Clean Architecture · Adapter Pattern
 
 ### Backend & Infrastructure
 
-<p>
-  <img src="https://img.shields.io/badge/Odoo_ERP-714B67?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitLab_CI/CD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
-</p>
+REST APIs · Odoo ERP · JWT / NextAuth · Docker · GitLab CI/CD · AWS · SonarQube
+
+### Additional Tools & Libraries
+
+Google Maps API · Leaflet · FullCalendar · ApexCharts · Recharts · Stripe · jsPDF · html2canvas
 
 ---
 
-## 🧩 Experience & Interests
-
-* SaaS application development
-* Frontend architecture and scalable systems
-* API integrations and ERP-connected platforms
-* Responsive UI/UX development
-* CI/CD and Docker-based workflows
-* Internationalization (i18n) and SEO optimization
-* Performance optimization and maintainable codebases
-
----
-
-## 📌 Featured Project
+## Academic Project
 
 ### Inventory & Sales Hub
 
-Enterprise-oriented inventory, sales, and POS management platform developed using modern full-stack technologies.
+Full-stack inventory, sales, and POS management platform developed as an academic project using modern web and mobile technologies.
 
-**Tech Stack:**
+**Tech Stack**
 React · TypeScript · Spring Boot · PostgreSQL · Docker · JWT · React Native
 
-Key features:
+**Key Features**
 
 * Modular and scalable architecture
 * Secure authentication and role management
 * REST API integration
-* Responsive web interface
+* Responsive web application
 * Mobile application support
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SRamos-Dev&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SRamos-Dev&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" width="48%" />
-</div>
