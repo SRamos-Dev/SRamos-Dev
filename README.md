@@ -1,7 +1,7 @@
 <div align="center">
-  <h1>Hi there, I'm Sergio Ramos 👋</h1>
-  <p><strong>Software Developer </strong></p>
-  
+  <h1>Hi, I'm Sergio Ramos 👋</h1>
+  <p><strong>Frontend Engineer specialized in modern SaaS applications</strong></p>
+
   <a href="https://www.linkedin.com/in/sramos-dev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -12,57 +12,83 @@
 
 <br />
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-I am a dedicated Software Developer who has recently transitioned from completing my academic studies and professional internships into full-time software engineering. I specialize in building robust, scalable, and enterprise-grade applications from the ground up.
+Frontend Engineer with experience building and maintaining scalable SaaS platforms using modern technologies such as Next.js, React, and TypeScript.
 
-With a strong foundation in both frontend and backend development, I enjoy tackling complex architectural challenges and delivering seamless cross-platform user experiences.
+I have worked as the main Frontend developer on multiple products for the gastronomic sector, developing responsive interfaces, integrating APIs and ERP services, implementing scalable architectures, and working with CI/CD pipelines, Docker, and cloud-based infrastructure.
 
-- 🔭 I’m currently developing and refactoring comprehensive full-stack enterprise platforms.
-- 🌱 I’m constantly refining my skills in system architecture, API design, and containerization.
-- 💬 Ask me about **React, TypeScript, Spring Boot, and PostgreSQL**.
-- ⚡ Fun fact: I believe a clean, strictly-typed codebase is the key to sustainable software.
+My background in customer support and operational environments has also helped me develop strong problem-solving, adaptability, and communication skills, allowing me to combine technical development with real user-focused solutions.
 
 ---
 
-### 🛠️ Technologies & Tools
+## 🚀 Main Stack
 
-**Frontend & Mobile** <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="Vite" />
-  <img src="https://img.shields.io/badge/Sass-C69?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
+### Frontend
+
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sass-C76494?style=for-the-badge&logo=sass&logoColor=white" />
 </p>
 
-**Backend & Database** <p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+### State Management & Architecture
+
+<p>
+  <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Clean_Architecture-222222?style=for-the-badge" />
 </p>
 
-**Testing & DevOps** <p>
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
-  <img src="https://img.shields.io/badge/Vitest-729B1B?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest" />
+### Backend & Infrastructure
+
+<p>
+  <img src="https://img.shields.io/badge/Odoo_ERP-714B67?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab_CI/CD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
 </p>
 
 ---
 
-### 🚀 Featured Work
+## 🧩 Experience & Interests
 
-**[Inventory & Sales Hub](https://github.com/Avilsan04/Inventory-Sales-Hub)** *A comprehensive monorepo platform designed for enterprise inventory, sales, and point-of-sale (POS) management.*
-- Engineered a robust backend service using **Java 17** and **Spring Boot 3**, secured with JWT and Spring Security.
-- Developed a dynamic web client using **React 18** and **TypeScript**, with rigorous E2E testing via Playwright.
-- Implemented a native mobile application using **React Native** for on-the-go management.
-- Utilized **Docker** for seamless database infrastructure setup.
+* SaaS application development
+* Frontend architecture and scalable systems
+* API integrations and ERP-connected platforms
+* Responsive UI/UX development
+* CI/CD and Docker-based workflows
+* Internationalization (i18n) and SEO optimization
+* Performance optimization and maintainable codebases
 
 ---
 
-### 📊 GitHub Stats
+## 📌 Featured Project
+
+### Inventory & Sales Hub
+
+Enterprise-oriented inventory, sales, and POS management platform developed using modern full-stack technologies.
+
+**Tech Stack:**
+React · TypeScript · Spring Boot · PostgreSQL · Docker · JWT · React Native
+
+Key features:
+
+* Modular and scalable architecture
+* Secure authentication and role management
+* REST API integration
+* Responsive web interface
+* Mobile application support
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SRamos-Dev&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SRamos-Dev&layout=compact&theme=radical&hide_border=true" width="48%" />
 </div>
